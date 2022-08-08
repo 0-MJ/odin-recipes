@@ -1,1 +1,1 @@
-# odin-recipes
+A basic html page made during the html part in the foundations section of  The odin project.
